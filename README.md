@@ -18,7 +18,7 @@ Usage
 Edit the php file and change constants in the configuration section.
 
 * PHP_ERROR_REPORTING : Sets the php error reporting. Must be either true or false.
-* DEBUG : Will display some debug information. Must be either true or false.
+* DEBUG : Setting this to true will display some debug information.
 * FILE_FOLDER : A full path to a folder where downloaded files should reside.
 * RSS_URL : A url to a remote RSS file. 
 
